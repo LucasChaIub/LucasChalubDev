@@ -4,7 +4,7 @@
 - 💻 Atualemente possuo experiencia com: HTML, CSS, JS, PHP, Laravel, Flutter, Bootstrap e MySQL.
 - 🎓 Sou Bacharel em Sistemas de Informação.
 - 👀 Interesses: Musica, Academia, Conhecer Novas Coisas, Programação e Desenvolvimento WEB.
-- 🤓 Estou sempre a procura de novas oportunidades, sejam elas para aplicar meus conhecimentos ou para adquirir experiência na área em que atuo.   
+- 🤓 Sempre a procura de novas oportunidades, sejam elas para aplicar meus conhecimentos ou para adquirir experiência na área em que atuo.   
 
 <div style="display: inline_block">
    <a href="https://github.com/LucasChalubDev">
