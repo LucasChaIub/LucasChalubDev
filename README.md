@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Chalub 🤙🏼
 # Seja Bem-Vindo ao meu GitHub! 
 
-- 💻 Atualemente possuo experiencia com: HTML, CSS, JS, PHP, Laravel, Flutter, Bootstrap e MySQL.
+- 💻 Atualmente possuo experiencia com: HTML, CSS, JS, PHP, Laravel, Flutter, Bootstrap e MySQL.
 - 🎓 Sou Bacharel em Sistemas de Informação.
 - 👀 Interesses: Musica, Academia, Conhecer Novas Coisas, Programação e Desenvolvimento WEB.
 - 🤓 Sempre a procura de novas oportunidades, sejam elas para aplicar meus conhecimentos ou para adquirir experiência na área em que atuo.   
